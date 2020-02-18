@@ -1,1 +1,2 @@
 This is adding dummy-file-under-folder.txt
+Test modifiyng 2:15PM EST
